@@ -2,7 +2,10 @@
 header{
 	background: yellow;
 }
-
+nav li{
+	display: inline; 
+	margin: 0 0 0 15px;
+}
 p{
 
 text-align: center; font-size: 25px;
